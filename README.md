@@ -1,16 +1,33 @@
-# blogs
+# 📖 Blog App  
 
-A new Flutter project.
+A Flutter-based Blog application with **authentication, profile management, and blog content fetching** from REST API.  
 
-## Getting Started
+## 🚀 Features  
+- 🔑 User Authentication (Login, Signup, Refresh Token)  
+- 👤 User Profile Update (Name, Bio, Location)  
+- 📝 Fetch & Display Blogs from REST API  
+- 📱 Responsive UI for Android & iOS  
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack  
+- **Flutter** (Frontend)  
+- **Dart** (Programming Language)  
+- **REST API** (Backend Communication)  
+- **http Package** (API calls)  
 
-A few resources to get you started if this is your first Flutter project:
+## 📷 Screenshots  
+(Add your screenshots here – e.g. Login Page, Blog List, Profile Page)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ⚙️ Installation  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/your-username/blog-app.git
+2. Navigate to project folder
+   ```bash
+   cd blog-app
+4. Install dependencies
+  ```bash
+  flutter pub get
+5. Run the app
+  ```bash
+  flutter run
