@@ -15,19 +15,27 @@ A Flutter-based Blog application with **authentication, profile management, and 
 - **http Package** (API calls)  
 
 ## 📷 Screenshots  
-(Add your screenshots here – e.g. Login Page, Blog List, Profile Page)  
+ ### 🔑 Login Page  
+![Login](login.jpg)
+
+### 📝 Blog List Page  
+![Blog List](blogs.jpg)
+
+### 👤 Profile Page  
+![Profile](profile.jpg)
+
 
 ## ⚙️ Installation  
 
 1. Clone the repo  
    ```bash
    git clone https://github.com/your-username/blog-app.git
-2. Navigate to project folder
+2. Navigate to the project folder
    ```bash
    cd blog-app
 4. Install dependencies
-  ```bash
-  flutter pub get
-5. Run the app
-  ```bash
-  flutter run
+   ```bash
+   flutter pub get
+5. Run the App
+   ```bash
+   flutter run
